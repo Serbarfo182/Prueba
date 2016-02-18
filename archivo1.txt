@@ -1,2 +1,6 @@
 public void hola(){
 }
+
+public String hey(String message){
+return message;
+}
